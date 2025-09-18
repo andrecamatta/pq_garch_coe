@@ -163,15 +163,15 @@ Material Publicitário | 18/08/2022
 
 Alertas Importantes
 
-Emissor: Itaú Unibanco S.A.
+Emissor: [Banco Emissor]
 O público-alvo: Investidores em geral, com perfil de investidor moderado, arrojado e agressivo.
 As informações constantes deste material publicitário são provenientes de fontes internas e externas de informação e podem
 ser alteradas a qualquer momento, independentemente de prévio aviso. Este material tem como objetivo único fornecer
 informações e não constitui nem deve ser interpretado como recomendação quanto à manutenção, compra ou venda de
 ativos financeiros e valores mobiliários. O conteúdo disponibilizado não deverá ser reproduzido, distribuído ou publicado sem
-prévia autorização da Itaú Corretora. Os investidores interessados em investir no COE devem procurar aconselhamento
+prévia autorização da [Instituição Financeira]. Os investidores interessados em investir no COE devem procurar aconselhamento
 financeiro, tributário e contábil conforme seus interesses, antes de tomar qualquer decisão de investimento. A decisão final
-de investimento é de exclusiva responsabilidade do investidor. A Itaú Corretora e\ou quaisquer das empresas integrantes de
+de investimento é de exclusiva responsabilidade do investidor. A [Instituição Financeira] e\ou quaisquer das empresas integrantes de
 seu conglomerado não se responsabiliza(m) pelo resultado das operações contratadas. É muito importante que você conheça
 e seus investimentos adequem-se ao seu perfil de investidor - basta preencher um rápido questionário e você pode atualizálo sempre que necessário. Não é considerado o perfil específico de um determinado investidor. Preços, taxas e disponibilidade
 de investimentos estão sujeitos a alteração sem prévio aviso.
@@ -191,7 +191,7 @@ auferido na liquidação ou cessão do COE ou o rendimento distribuído, líquid
 art. 51 da IN 1585/15.
 Parâmetros e Cupom: Informações sobre os parâmetros utilizados para avaliar a valorização ou desvalorização das ações da
 cesta, bem como para a definição do cupom aplicável são disponibilizadas no Documento de Informações Essenciais (DIE)
-disponível na área logada do Home Broker em https://itaucorretora.com.br/ na rota: Carteira > Minhas Ofertas Públicas >
+disponível na área logada do Home Broker da [Instituição Financeira] na rota: Carteira > Minhas Ofertas Públicas >
 Comprovante.
 PRINCIPAIS FATORES DE RISCOS
 A aquisição do COE pode implicar nos seguintes riscos:
@@ -243,12 +243,9 @@ A PRESENTE OFERTA NÃO ESTÁ SUJEITA A REGISTRO NA COMISSÃO DE VALORES MOBILIÁ
 PREVIAMENTE ESTA OFERTA. A DISTRIBUIÇÃO DO CERTIFICADO DE OPERAÇÕES ESTRUTURADAS – COE NÃO IMPLICA, POR
 PARTE DA CVM, A GARANTIA DE VERACIDADE DAS INFORMAÇÕES PRESTADAS, DE ADEQUAÇÃO DO CERTIFICADO À
 LEGISLAÇÃO VIGENTE OU JULGAMENTO SOBRE A QUALIDADE DO EMISSOR OU DA INSTITUIÇÃO INTERMEDIÁRIA.
-Consultas, sugestões, reclamações, críticas, elogios e denúncias, fale com a Central de Atendimento: para correntistas 40043131* (capitais e regiões metropolitanas) e 0800 722 3131 (demais localidades) ou para não correntistas 4004-3005*
-(capitais e regiões metropolitanas) e 0800 726 3005 (demais localidades), em dias úteis, das 9h às 18h, ou entre em contato
-com o Fale Conosco no website www.itaucorretora.com.br. Se necessário, utilize o SAC Itaú: 0800 728 0728. Caso não fique
-satisfeito com a solução apresentada, de posse do protocolo, contate a Ouvidoria Corporativa Itaú: 0800 570 0011 (em dias
-úteis das 9h às 18h) ou Caixa Postal 67.600, São Paulo-SP, CEP 03162-971. Deficientes auditivos, todos os dias, 24h, 0800 722
-1722. *Custo de ligação local
+Consultas, sugestões, reclamações, críticas, elogios e denúncias, fale com a Central de Atendimento da [Instituição Financeira].
+Se necessário, utilize o SAC da instituição. Caso não fique satisfeito com a solução apresentada, de posse do protocolo,
+contate a Ouvidoria da instituição. *Custo de ligação local
 LEIA O DOCUMENTO DE INFORMAÇÕES ESSENCIAIS ABAIXO DISPONÍVEL ANTES DE APLICAR
 NESTE CERTIFICADO DE OPERAÇÕES ESTRUTURADAS.
 
