@@ -26,7 +26,7 @@ julia coe_analysis.jl
 - **Ativos**: AMD, Amazon (AMZN), Meta (META), TSMC (TSM)
 - **Prazo**: 5 anos (1.260 dias úteis)
 - **Observações**: Semestrais (10 observações)
-- **Cupom**: 8.8% por semestre
+- **Cupom**: 7.0% a 8.8% por semestre
 - **Capital protegido** ao vencimento
 - **Autocall**: Vence antecipadamente se todas as ações ≥ preço inicial
 - **Principal**: R$ 10.000
