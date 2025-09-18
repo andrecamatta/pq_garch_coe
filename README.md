@@ -69,21 +69,38 @@ pq_garch_coe/
 curl -fsSL https://install.julialang.org | sh
 ```
 
-### 2. Instalar Dependências
+### 2. Clonar o Repositório
 ```bash
+git clone https://github.com/andrecamatta/pq_garch_coe.git
 cd pq_garch_coe
+```
+
+### 3. ⚠️ IMPORTANTE: Configurar API Tiingo
+**O projeto precisa de uma chave API da Tiingo para buscar dados de mercado:**
+
+1. **Obtenha uma chave gratuita em:** https://www.tiingo.com/
+2. **Crie o arquivo `.env` na raiz do projeto:**
+   ```bash
+   echo "TIINGO_API_KEY=sua_chave_aqui" > .env
+   ```
+
+   Ou crie manualmente o arquivo `.env` com o conteúdo:
+   ```
+   TIINGO_API_KEY=sua_chave_da_tiingo_aqui
+   ```
+
+⚠️ **Sem esta configuração, o sistema não conseguirá baixar os preços dos ativos!**
+
+### 4. Instalar Dependências Julia
+```bash
 julia -e "using Pkg; Pkg.instantiate()"
 ```
 
-### 3. Dependências Opcionais (para relatórios HTML)
+### 5. Dependências Opcionais (para relatórios HTML)
 ```julia
 using Pkg
 Pkg.add(["PlotlyJS", "JSON3", "Colors"])
 ```
-
-### 4. Configurar API Tiingo
-- Obtenha chave gratuita: https://www.tiingo.com/
-- Edite `.env`: `TIINGO_API_KEY=sua_chave_aqui`
 
 ## 📈 Outputs Gerados
 
@@ -274,8 +291,14 @@ export_simulation_results(result, specs, config; format=:both)
 
 ### Erro de API Key
 ```bash
-# Verificar .env
-echo $TIINGO_API_KEY
+# Verificar se o arquivo .env existe
+ls -la .env
+
+# Verificar conteúdo do .env
+cat .env
+
+# Se não existir, criar:
+echo "TIINGO_API_KEY=sua_chave_aqui" > .env
 ```
 
 ### Dependências HTML
